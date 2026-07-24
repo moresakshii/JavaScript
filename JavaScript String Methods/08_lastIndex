@@ -1,0 +1,2 @@
+let str="Tulip";
+console.log(str.lastIndexOf("u"));
